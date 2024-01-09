@@ -1,0 +1,154 @@
+html{
+  overflow-x: hidden;
+}
+.body {
+  background-color: yellow;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+/* navbar */
+.container-fluid {
+  background: rgb(55, 217, 144);
+}
+
+/* ? */
+
+
+
+
+/* about */
+
+/* menu */
+#product {
+  width: 100%;
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+
+.menu{
+background-size: cover;
+background-color: yellowgreen;
+padding: 20px;
+}
+
+.heading3 {
+  text-align: center;
+  font-size: 100px;
+  color: rgb(12, 235, 243);
+  font-weight: bold;
+  position: relative;
+  margin-top: 950px;
+}
+.heading4 {
+  text-align: center;
+  font-size: 50px;
+  color: cadetblue;
+  font-weight: bold;
+  position: relative;
+}
+.heading5 {
+  text-align: center;
+  font-size: 50px;
+  color: cadetblue;
+  font-weight: bold;
+  position: relative;
+}
+
+
+#container2 {
+  margin-top: 20px;
+}
+
+#product .card {
+  box-shadow: rgb(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+#product h3 {
+  text-align: center;
+  color: cadetblue;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+#product p {
+  font-size: 16px;
+  color: cadetblue;
+  padding-top: 10px;
+}
+
+#product p span {
+  float: right;
+  cursor: pointer;
+}
+.container {
+  background-image: url();
+  background-size: cover;
+}
+.home img {
+  position: absolute;
+}
+.home h1 {
+  position: relative;
+  margin-top: -9px;
+  font-size: 60px;
+  color: rgb(246, 250, 250);
+  font-weight: bold;
+  position: relative;
+}
+.home P {
+  position: relative;
+  margin-top: -9px;
+  font-size: 100px;
+  color: rgb(246, 250, 250);
+  font-weight: bold;
+  position: relative;
+}
+.container h1 {
+  position: relative;
+  font-size: 80px;
+  color: cadetblue;
+  font-weight: bold;
+  position: relative;
+}
+
+.cleaan h1 {
+  text-align: center;
+  font-size: 50px;
+  color: rgb(16, 239, 239);
+  font-weight: bold;
+  position: relative;
+}
+
+.calling {
+  background-image: url("../img/background.png");
+  background-size: cover;
+  align-items: center;
+}
+.contact h2 {
+  color: aliceblue;
+  padding: 15%;
+}
+.footer {
+  background-color: black;
+  color: white;
+  padding: 2rem 9%;
+}
+.keempat h1 {
+  color: black;
+  margin-top: 30px;
+}
+@media screen and (max-width: 576px) {
+.footer {
+  background-color: rgb(209, 203, 203);
+  color: white;
+  padding: 2rem 9%;
+ 
+}
+.footer h2{
+  color: black;
+ 
+}
+}
